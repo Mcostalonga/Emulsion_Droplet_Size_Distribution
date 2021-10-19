@@ -1,4 +1,4 @@
-# droplet-size-distribution
+# Droplet Size Distribution Determination
 Script used to obtain the droplet size distribution and d90 for diameters data of emulsions and plot this at a two y axis plot
 
 **Comments:**
