@@ -9,9 +9,9 @@ A .txt file with the diameters of the droplets arranged in array form.
 **Output data:**
 The output data consists  in two files: 
 
-_i) A .PNG file -- Graph containing: Histogram of droplet size distribution, a line plot of the cumulative frequency and a representation of <html>d<sub>\90</sub></html>._
+_i) A .PNG file -- Graph containing: Histogram of droplet size distribution, a line plot of the cumulative frequency and a representation of <html>d<sub>90</sub></html>._
 
-_ii) A .XLSX file -- Data file containing:original input data (droplet diameter), the interval used to plot, the relative and cumulative frequencies, and the <html>d<sub>\90</sub></html> value as well._ 
+_ii) A .XLSX file -- Data file containing:original input data (droplet diameter), the interval used to plot, the relative and cumulative frequencies, and the <html>d<sub>90</sub></html> value as well._ 
 
 # Input data and Output data examples
 
@@ -19,15 +19,15 @@ In this section we can see bellow the input data used, and the output data obtai
 
 # Input data example:
 <img src="https://github.com/Mcostalonga/Emulsion_Droplet_Size_Distribution/blob/master/example/input_example.png" width="45%" height="45%" alt="Input data example">
-<p>Figure 1 Input data example.</p>
+<p>**Figure 1.** Input data example.</p>
 
 
 # Output data example:
 <img src="https://github.com/Mcostalonga/Emulsion_Droplet_Size_Distribution/blob/master/example/output2_example.png" width="50%" height="50%" alt="Output data example">
-<p>Figure 2. Output data example: Graph.</p>
+<p>**Figure 2.** Output data example: Graph.</p>
      
 <img src="https://github.com/Mcostalonga/Emulsion_Droplet_Size_Distribution/blob/master/example/output1_example.png" width="50%" height="50%" alt="Output data example">
-<p>Figure 3. Output data example: Data file: .XLSX.</p>
+<p>**Figure 3.** Output data example: Data file: .XLSX.</p>
 
 # Solution:
 
