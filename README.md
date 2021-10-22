@@ -18,15 +18,15 @@ _ii) A .XLSX file -- Data file containing: original input data (droplets diamete
 In this section we can see bellow the input data used, and the output data obtained using the script **"script_dsd_plot.py"**. Click on the images if you wish to see them at the original size. Fig. (1) shows the input data as a .TXT file and Figs. (2) and (3) shows the output data.
 
 # Input data example:
-<img src="https://github.com/Mcostalonga/Emulsion_Droplet_Size_Distribution/blob/master/example/input_example.png" width="45%" height="45%" alt="Input data example">
+<img src="https://i.ibb.co/3sWTQ2b/input-example.png" width="45%" height="45%" alt="Input data example">
 <p>Figure 1. Input data example.</p>
 
 
 # Output data example:
-<img src="https://github.com/Mcostalonga/Emulsion_Droplet_Size_Distribution/blob/master/example/output2_example.png" width="50%" height="50%" alt="Output data example">
+<img src="https://i.ibb.co/xmJPqgK/output2-example.png" width="50%" height="50%" alt="Output data example">
 <p>Figure 2. Output data example: Graph.</p>
      
-<img src="https://github.com/Mcostalonga/Emulsion_Droplet_Size_Distribution/blob/master/example/output1_example.png" width="50%" height="50%" alt="Output data example">
+<img src="https://i.ibb.co/jWr3ZYy/output1-example.png" width="50%" height="50%" alt="Output data example">
 <p>Figure 3. Output data example: Data file: .XLSX.</p>
 
 # Solution:
