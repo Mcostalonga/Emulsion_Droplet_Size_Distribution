@@ -1,17 +1,17 @@
 # Droplet Size Distribution Determination
 
 **Comments:**
-Script used during the work as Researcher in Federal University of Espirito Santo (Universidade Federal do Espírito Santo) to create a histogram for the droplets size distiribution of emulsions
+Script used during the work as a researcher in Federal University of Espirito Santo (Universidade Federal do Espírito Santo) to create a histogram for the droplets size distiribution of emulsions
 
 **Input data:**
-A .txt file with the diameters of the droplets arranged in array form.
+_A .TXT file with the diameters of the droplets arranged in a array form._
 
 **Output data:**
 The output data consists  in two files: 
 
-_i) A .PNG file -- Graph containing: Histogram of droplet size distribution, a line plot of the cumulative frequency and a representation of <html>d<sub>90</sub></html>._
+_i) A .PNG file -- Graph containing: Histogram of droplet size distribution, a line plot with cumulative frequency and a representation of <html>d<sub>90</sub></html>._
 
-_ii) A .XLSX file -- Data file containing:original input data (droplet diameter), the interval used to plot, the relative and cumulative frequencies, and the <html>d<sub>90</sub></html> value as well._ 
+_ii) A .XLSX file -- Data file containing: original input data (droplets diameters), the bins used in the histogram, the relative and cumulative frequencies, and the <html>d<sub>90</sub></html> value as well._ 
 
 # Input data and Output data examples
 
