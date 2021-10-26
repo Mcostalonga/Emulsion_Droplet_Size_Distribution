@@ -1,6 +1,6 @@
 # Droplet Size Distribution Determination
 
-## Comments:
+## Comments
 Script used during the work as a researcher in Federal University of Espirito Santo (Universidade Federal do Espírito Santo) to create a histogram for the droplets size distiribution of emulsions
 
 ## Input data
